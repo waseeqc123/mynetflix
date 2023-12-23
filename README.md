@@ -1,1 +1,1 @@
-# mynetflix
+# my-netflix
